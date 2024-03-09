@@ -1,4 +1,4 @@
-# form_validation_django
+# Form validation with Django
 
 Screenshots of proposed website
 
